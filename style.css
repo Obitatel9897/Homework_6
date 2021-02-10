@@ -94,7 +94,7 @@ header {
 }
 .block_people_adidas {
 	overflow: auto;
-	background: blue  url(../img/people_adidas.jpg);
+	background: blue  url(people_adidas.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -106,7 +106,7 @@ header {
 	min-height: 700px;
 	border: 4px solid aqua;
 	padding: 10px;
-	background-image: url(../img/main_bg2.jpg);
+	background-image: url(main_bg2.jpg);
 	background-repeat: repeat;
 } 
 h1 {
