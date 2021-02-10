@@ -94,7 +94,7 @@ header {
 }
 .block_people_adidas {
 	overflow: auto;
-	background: blue  url(./people_adidas.jpg);
+	background: blue  url(people_adidas.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
